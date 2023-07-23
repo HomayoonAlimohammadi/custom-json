@@ -1,0 +1,12 @@
+{
+    "products": [
+        "prod A",
+        "prod B",
+        "prod C"
+    ],
+    "prices": [
+        100,
+        200,
+        300
+    ]
+}
